@@ -12,7 +12,7 @@ const App = () => {
   return (
     <>
     {
-      !user ? (<Login/>) : (<div className="App">
+      user ? (<Login/>) : (<div className="App">
       {/*Header*/}
 
       <Header />
