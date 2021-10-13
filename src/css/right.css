@@ -1,0 +1,47 @@
+.widget{
+    
+    margin-right: 10px;
+    height: 100vh;
+    position: sticky;
+    top: 0;
+    flex: 0.5;
+}
+
+.widget__header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.widget__bodyOptions{
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+
+.widget__bodyOptions h4{
+    margin-left: 10px;
+
+}
+
+.ml10{
+    margin-left: 15px;
+}
+
+.ml10 p{
+    font-size: 15px;
+    color: gray;
+}
+
+.ml10 svg{
+    font-size: 20px;
+    color: gray;
+    margin-right: 10px;
+}
+
+.widget__headerLeftRight svg{
+    margin: 0px 5px;
+}
