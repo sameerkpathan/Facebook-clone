@@ -48,7 +48,7 @@ function Header() {
             <div className="header__right">
                <div className="header__info">
                   <Avatar src="https://scontent.fnag6-1.fna.fbcdn.net/v/t31.18172-1/c0.5.160.160a/p160x160/28061716_2033748510172555_7227464217607288187_o.jpg?_nc_cat=102&ccb=1-5&_nc_sid=7206a8&_nc_ohc=p2s6qo1EOfUAX9i-HaC&_nc_ht=scontent.fnag6-1.fna&oh=170f2b4e2ecf9dd03030df5d997fda44&oe=618893B8"/>
-                  <h5>{user.displayName}</h5>
+                  <h5>Sameer Pathan</h5>
                </div>
                <IconButton>
                <AppsIcon/>
